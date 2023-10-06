@@ -1,0 +1,3 @@
+cd $HOME
+cd mamitoolv3
+python mamihacker.py
